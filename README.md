@@ -5,11 +5,13 @@ LinkedIn Profile:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/BRdhanani](https://www.linkedin.com/in/fvalentin1/)) 
 
-<hr>
+
 
 ## 🎓 Education
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+<hr>
 
 ## 👨‍💻 Experiences and Skills
 
