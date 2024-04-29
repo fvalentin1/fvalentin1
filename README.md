@@ -1,5 +1,5 @@
 # Hello World! 👋
-My name is Felipe Valentin Muñoz, I am a student 🎓 of Civil Computer Engineering at UCSC - Concepción, Chile.
+My name is Felipe Valentin Muñoz, I am a Civil Computer Engineering at UCSC - Concepción, Chile.
 
 LinkedIn Profile:
 
