@@ -38,8 +38,6 @@ LinkedIn Profile:
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-
 <hr>
 
 ### 📚 Frameworks, Platforms and Libraries:
@@ -84,10 +82,6 @@ LinkedIn Profile:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <hr>
-
-### 🗄️ Servers:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
 
 
 
